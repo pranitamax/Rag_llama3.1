@@ -1,0 +1,8 @@
+llama_index
+openai
+python-dotenv
+bitsandbytes
+transformers
+torch
+PyPDF2
+llama2
